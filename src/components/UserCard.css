@@ -1,0 +1,37 @@
+.User-card {
+  display: inline-block;
+  border-radius: 25px;
+  padding: 0.5%;
+  width: 25%;
+  box-shadow: 0 2px 20px rgb(182, 182, 182);
+  text-align: center;
+  margin: 1.5%;
+}
+
+.User-card h3 {
+  margin: 2.5% 2.5% 0px;
+}
+
+.User-card p {
+  margin-bottom: 0;
+  padding: 1.5%;
+  color: rgb(0, 0, 0);
+  letter-spacing: 1px;
+}
+
+.User-card img {
+  margin: 1.5%;
+  border-radius: 5%;
+  border: 3px  rgb(0, 0, 0);
+  width: 30%;
+  height: 30%;
+}
+
+.Card-details {
+  margin: 0;
+  background-color: #ffffff;
+  padding-bottom: 25px;
+  padding-top: 25px;
+
+  border-radius: 25px;
+}
